@@ -105,7 +105,7 @@ class Larafirebase
                     'title' => $this->title,
                     'body' => $this->body,
                     'image' => $this->image,
-                    'click_action' => $this->clickAction,
+                    //'click_action' => $this->clickAction,
                 ],
             ],
         ];
